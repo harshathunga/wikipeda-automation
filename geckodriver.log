@@ -1,0 +1,43 @@
+1670244143991	geckodriver	INFO	Listening on 127.0.0.1:51147
+1670244147230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\HARSHA~1\\AppData\\Local\\Temp\\rust_mozprofile2ORDyl"
+1670244221366	geckodriver	INFO	Listening on 127.0.0.1:51228
+1670244224463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\HARSHA~1\\AppData\\Local\\Temp\\rust_mozprofileBLbw0u"
+1670244225492	Marionette	INFO	Marionette enabled
+1670244225498	Marionette	INFO	Listening on port 51242
+Read port: 51242
+1670244226349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HARSHA~1\\AppData\\Local\\Temp\\rust_mozprofileBLbw0u\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670246528305	Marionette	INFO	Stopped listening on port 51242
+\\Temp\\rust_mozprofileFpDr4t"
+1670244579302	Marionette	INFO	Marionette enabled
+1670244579319	Marionette	INFO	Listening on port 51481
+Read port: 51481
+1670244579569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HARSHA~1\\AppData\\Local\\Temp\\rust_mozprofileFpDr4t\\search.json.mozlz4", (void 0)))
+1670246526428	Marionette	INFO	Stopped listening on port 51481
+0245400637	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\HARSHA~1\\AppData\\Local\\Temp\\rust_mozprofileddbSys"
+1670245404043	Marionette	INFO	Marionette enabled
+1670245404052	Marionette	INFO	Listening on port 52020
+Read port: 52020
+1670245404267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HARSHA~1\\AppData\\Local\\Temp\\rust_mozprofileddbSys\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 290: TypeError: InspectorUtils.setContentState: Argument 1 is not an object.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670246528061	Marionette	INFO	Stopped listening on port 52020
+0246145056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\HARSHA~1\\AppData\\Local\\Temp\\rust_mozprofileYSgaXM"
+1670246147828	Marionette	INFO	Marionette enabled
+1670246147836	Marionette	INFO	Listening on port 52487
+Read port: 52487
+1670246148025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HARSHA~1\\AppData\\Local\\Temp\\rust_mozprofileYSgaXM\\search.json.mozlz4", (void 0)))
+1670246527928	Marionette	INFO	Stopped listening on port 52487
+0246231095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\HARSHA~1\\AppData\\Local\\Temp\\rust_mozprofileSJ1Yqg"
+1670246232894	Marionette	INFO	Marionette enabled
+1670246232900	Marionette	INFO	Listening on port 52585
+Read port: 52585
+1670246233091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HARSHA~1\\AppData\\Local\\Temp\\rust_mozprofileSJ1Yqg\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 290: TypeError: InspectorUtils.setContentState: Argument 1 is not an object.
+1670246529520	Marionette	INFO	Stopped listening on port 52585
